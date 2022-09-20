@@ -2,3 +2,4 @@
 <h1 align=center><b>Copypaster v4.0 by echo complex</b></h1>
 <h2 align=center><b>ENG: What is this?</b></h2>
 <h3 align=center>It is a simple program that allows you to paste anything and anywhere from your clipboard.</h3>
+![GUI](https://user-images.githubusercontent.com/102752755/191383693-6828598c-8802-467f-aa14-c4e8f79ee1ad.png)
