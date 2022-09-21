@@ -11,8 +11,4 @@
 <h2 align=center>Additional messages</h2>
 
 <h3 align=center>You can add additional messages to the copied.</h3>
-
 <img align=center src=https://user-images.githubusercontent.com/102752755/191384565-e4b1aed9-940d-4949-9ba0-6e49a0293d33.png></img>
-<p class="aligncenter">
-    <img src="https://user-images.githubusercontent.com/102752755/191384565-e4b1aed9-940d-4949-9ba0-6e49a0293d33.png" alt="изображение в центре параграфа" />
-</p>
