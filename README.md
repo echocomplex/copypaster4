@@ -24,6 +24,8 @@
 
 <h3 align=center>1. Select the language you need from the files above.</h3>
 
+<h3 align=center><a href="https://t.me/echoscode/51?singlee" target="_blank">Zip-archives</a></h3>
+
 <h3 align=center>2. Download the zip archive.</h3>
 
 <h3 align=center>3. Unzip it to any location (without changing the files inside it!)</h3>
@@ -65,6 +67,8 @@
 <h2 align=center>Как установить?</h2>
 
 <h3 align=center>1. Выберите zip-архив с указанным языком, который вам нужен.</h3>
+
+<h3 align=center><a href="https://t.me/echoscode/51?singlee" target="_blank">Zip-архивы</a></h3>
 
 <h3 align=center>2. Скачайте архив.</h3>
 
