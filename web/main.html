@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Copypaster 4</title>
+    <script src="eel.js"></script>
+    <link rel="icon" type="image/png" href="/icon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div  align="center">
+        <form action="#" class="box" method="post">
+            <h1 class="h1">Copypaster v4.0</h1>
+            <h2 class="h2">General information</h2>
+            <input id="messages" type="text" placeholder="Number of messages (0-4)">
+            <input id="time" type="text" placeholder="Delay between messages (In seconds)">
+            <h2 class="h2">Messages</h2>
+            <input id="firstmessage" type="text" placeholder="First Message (ENG)">
+            <input id="secondmessage" type="text" placeholder="Second Message (ENG)">
+            <input id="thirdmessage" type="text" placeholder="Third Message (ENG)">
+            <input id="fourthmessage" type="text" placeholder="Fourth Message (ENG)">
+            <input id="btn" type="submit" value="Start">
+        </form>
+    </div>
+    <script>
+        let btn = document.querySelector("#btn");
+        btn.addEventListener("click", SendData);
+        async function SendData() {
+            let messages = document.querySelector("#messages").value; 
+            let time1 = document.querySelector("#time").value; 
+            let firstmessage = document.querySelector("#firstmessage").value;
+            let secondmessage = document.querySelector("#secondmessage").value;
+            let thirdmessage = document.querySelector("#thirdmessage").value;
+            let fourthmessage = document.querySelector("#fourthmessage").value;
+            await eel.func(messages, time1, firstmessage, secondmessage, thirdmessage, fourthmessage);
+        }
+    </script>
+</body>
+</html>
