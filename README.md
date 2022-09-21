@@ -42,7 +42,7 @@
 
 <h3 align=center><a href="https://t.me/echoscomplex" target="_blank">Contact me in Telegram (Support)</a></h3>
 
-<h3 align=center>4. Report bugs to support!</h3>
+<h3 align=center>Report bugs to support!</h3>
 
 ---
 
