@@ -44,6 +44,8 @@
 
 <h3 align=center>4. Report bugs to support!</h3>
 
+---
+
 <h2 align=center>Error codes:</h2>
 
 <h3 align=center>Error code 1: You entered the number of additional messages incorrectly. Valid numbers are from 0 to 4, not others and not symbols. Restart the program and try again.</h3>
@@ -96,6 +98,8 @@
 
 <h3 align=center>О багах сообщать в тех. поддержку!</h3>
 
+---
+  
 <h2 align=center>Коды ошибок:</h2>
 
 <h3 align=center>Error code 1: Вы ввели не число, а текст в параметре кол-ва сообщений. Перезапустите программу и попробуйте снова. Допустимый диапазон чисел: от 0 до 4 включительно.</h3>
