@@ -44,6 +44,14 @@
 
 <h3 align=center>4. Report bugs to support!</h3>
 
+<h2 align=center>Error codes:</h2>
+
+<h3 align=center>Error code 1: You entered the number of additional messages incorrectly. Valid numbers are from 0 to 4, not others and not symbols. Restart the program and try again.</h3>
+
+<h3 align=center>Error code 2: You entered the number of delay between messages incorrectly. Valid numbers are from 0 to ∞, not <0 or text symbols. Restart the program and try again.</h3>
+
+<h3 align=center>Error code 3: You have entered a number that is not in the range of acceptable values. The numbers in the parameter number of additional messages can be from 0 to 4 inclusive, not others. Restart the program and try again.</h3>
+
 ---
 
 <h2 align=center><b>RU: Что это такое?</b></h2>
@@ -87,6 +95,14 @@
 <h3 align=center><a href="https://t.me/echoscomplex" target="_blank">Связаться со мной в Telegram (Поддержка)</a></h3>
 
 <h3 align=center>О багах сообщать в тех. поддержку!</h3>
+
+<h2 align=center>Коды ошибок:</h2>
+
+<h3 align=center>Error code 1: Вы ввели не число, а текст в параметре кол-ва сообщений. Перезапустите программу и попробуйте снова. Допустимый диапазон чисел: от 0 до 4 включительно.</h3>
+
+<h3 align=center>Error code 2: Вы ввели не число, а текст в параметре задержки между сообщениями. Перезапустите программу и попробуйте снова. Допустимый диапазон чисел: от 0 до ∞ включительно.</h3>
+
+<h3 align=center>Error code 3: Вы ввели число в параметре сообщений, но оно не входит в диапазон допустимых значений. Перезапустите программу и попробуйте снова. Допустимый диапазон чисел: от 0 до 4 включительно.</h3>
 
 ---
 
