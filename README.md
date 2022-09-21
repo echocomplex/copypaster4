@@ -48,19 +48,19 @@
 
 <h3 align=center>Это простая программа, которая позволит вам вставлять из вашего буфера обмена что угодно, куда угодно и с какой угодно скоростью</h3>
 
-![gui](https://user-images.githubusercontent.com/102752755/191383693-6828598c-8802-467f-aa14-c4e8f79ee1ad.png)
+![gui](https://user-images.githubusercontent.com/102752755/191393680-9b3327e0-ce05-4615-98ab-e9551bc909eb.png)
 
 <h2 align=center>Дополнительные сообщения</h2>
 
 <h3 align=center>Вы можете добавить 4 дополнительных текстовых сообщения к тому, что вы скопировали.</h3>
 
-![messages](https://user-images.githubusercontent.com/102752755/191388368-755d79ab-ad38-4fc1-a5fe-5bfc6991712e.png)
+![messages](https://user-images.githubusercontent.com/102752755/191393847-f3895b36-68b6-4f6e-a095-cb6fa454369f.png)
 
 <h2 align=center>Как это работает?</h2>
 
 <h3 align=center>Введите в программу требуемую информацию (Кол-во доп. сообщений, задержка между сообщениями и сами доп. сообщения) и нажмите "Start". Вот и все!</h3>
 
-![work](https://user-images.githubusercontent.com/102752755/191389876-6565586b-8af6-4766-aead-3dd6e0f50122.png)
+![work](https://user-images.githubusercontent.com/102752755/191394199-48c67eb1-2c2b-4024-adf5-5022681265fe.png)
 
 <h2 align=center>Как установить?</h2>
 
