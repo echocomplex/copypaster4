@@ -40,7 +40,7 @@
 
 <h3 align=center><a href="https://t.me/echoscomplex" target="_blank">Contact me in Telegram (Support)</a></h3>
 
-**Report bugs to support!**
+<h3 align=center>4. Report bugs to support!</h3>
 
 ---
 
@@ -82,8 +82,8 @@
 
 <h3 align=center><a href="https://t.me/echoscomplex" target="_blank">Связаться со мной в Telegram (Поддержка)</a></h3>
 
-**О багах сообщать в тех. поддержку!**
+<h3 align=center>О багах сообщать в тех. поддержку!</h3>
 
 ---
 
-__with love, echo complex__
+<h3><i>with love, echo complex</i></h3>
